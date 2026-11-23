@@ -1,0 +1,14 @@
+{
+  "name": "SCOPX.I.E Demo Workspace",
+  "short_name": "SCOPX.I.E",
+  "description": "Responsive endoscopy workflow demo using synthetic data only",
+  "lang": "ar",
+  "dir": "rtl",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "theme_color": "#071321",
+  "background_color": "#06111d",
+  "icons": [{"src":"assets/icon.svg","sizes":"any","type":"image/svg+xml","purpose":"any maskable"}]
+}
